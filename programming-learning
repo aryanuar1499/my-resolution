@@ -5,5 +5,8 @@ Web Development => Full Stack Development => Front-end Back-end
 ---------------------------------------------------------------
 -> Front-end Development
   - HTML
-  -CSS
-  -JavaScript
+    HTML is Hyper Text Markup Language the standrd markup language for creating Web Page and describe the structure of a web
+  - CSS
+    Casecading Style Sheets describes how to HTML are to be display on screen, paper, or in other media
+  - JavaScript
+    JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browser
