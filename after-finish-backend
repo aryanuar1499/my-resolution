@@ -1,8 +1,13 @@
 -> Back-end Development
-  - JavaScript
-  - Python
-  - Ruby
+  - JavaScript (Object Oriented Programming)
+    JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browser.
+  - Python (Multi-paradigma)
+    Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+  - Database
+    A Database is an organized collection of structured information, or data, typically stored electronically in a computer system. 
+  - REST API (Representational State Tranfer Apllication Programming Interface)
+    An API, or application programming interface, is a set of rules that defines how application or device can connect to and communicate with each other. A REST API is an API that comforms to the design priciple of the REST,
+    or representational state transfer architectural style. for this reason, REST APIs are sometimes referred to RESTful APIs.
+  - Ruby 
   - Java
   - C#
-  - Database
-  - REST API
